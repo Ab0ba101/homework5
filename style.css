@@ -1,0 +1,16 @@
+div{
+    background-color: aqua;
+    height: 220px;
+    width: 350px;
+    border: 2px red dashed;
+    color:black;
+    margin-bottom: 30px;
+    padding-top: 15;
+    padding-left: 10;
+    padding-right: 10;
+    padding-bottom: 20;
+}
+
+body{
+    background-color:blueviolet;
+}
